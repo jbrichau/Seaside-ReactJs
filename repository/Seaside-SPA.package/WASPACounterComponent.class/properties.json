@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-SPA-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"counterValue" ],
+	"name" : "WASPACounterComponent",
+	"pools" : [
+		 ],
+	"super" : "WASPAComponent",
+	"type" : "normal" }

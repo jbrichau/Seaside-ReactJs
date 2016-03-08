@@ -1,0 +1,3 @@
+scripts
+updateFunctionOn: html
+	self subclassResponsibility

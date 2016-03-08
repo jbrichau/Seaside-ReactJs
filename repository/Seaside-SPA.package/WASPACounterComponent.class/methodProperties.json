@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"initialize" : "JohanBrichau 3/7/2016 21:58" },
+	"instance" : {
+		"counterModelJs" : "JohanBrichau 3/8/2016 10:00",
+		"counterValue" : "JohanBrichau 3/7/2016 21:52",
+		"initialize" : "JohanBrichau 3/7/2016 21:54",
+		"objects" : "JohanBrichau 3/7/2016 21:52",
+		"renderContentOn:" : "JohanBrichau 3/8/2016 09:58",
+		"updateFunctionOn:" : "JohanBrichau 3/8/2016 10:02",
+		"updateRoot:" : "JohanBrichau 3/7/2016 22:07" } }
