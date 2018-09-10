@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ReactJS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JSValueCallback",
+	"pools" : [
+		 ],
+	"super" : "JSAjaxCallback",
+	"type" : "normal" }

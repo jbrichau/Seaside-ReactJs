@@ -1,0 +1,3 @@
+hooks
+id
+	^ 'demo'

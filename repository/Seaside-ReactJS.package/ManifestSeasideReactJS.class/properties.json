@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ReactJS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestSeasideReactJS",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }

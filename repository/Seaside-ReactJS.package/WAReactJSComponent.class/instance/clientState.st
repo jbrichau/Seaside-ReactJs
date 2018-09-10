@@ -1,0 +1,3 @@
+hooks
+clientState
+	self subclassResponsibility

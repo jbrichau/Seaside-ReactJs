@@ -1,0 +1,3 @@
+hooks
+installFunctionName
+	self subclassResponsibility 

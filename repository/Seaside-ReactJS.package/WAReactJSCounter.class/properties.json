@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ReactJS-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"count" ],
+	"name" : "WAReactJSCounter",
+	"pools" : [
+		 ],
+	"super" : "WAReactJSComponent",
+	"type" : "normal" }

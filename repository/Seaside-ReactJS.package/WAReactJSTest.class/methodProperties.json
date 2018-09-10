@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"register" : "JohanBrichau 5/17/2017 19:28" },
+	"instance" : {
+		"actions" : "JohanBrichau 5/16/2017 13:15",
+		"clientState" : "JohanBrichau 5/17/2017 20:37",
+		"id" : "JohanBrichau 5/16/2017 14:34",
+		"initialize" : "JohanBrichau 5/17/2017 20:32",
+		"installFunctionName" : "JohanBrichau 5/17/2017 20:16",
+		"renderContentOn:" : "JohanBrichau 5/16/2017 14:34",
+		"reset" : "JohanBrichau 5/16/2017 13:16",
+		"updateClientState:" : "JohanBrichau 5/17/2017 20:34" } }
