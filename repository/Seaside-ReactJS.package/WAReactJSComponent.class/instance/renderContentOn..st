@@ -5,7 +5,7 @@ renderContentOn: html
 	callbackId := self callbackOn: html.
 	html script: 
 		((html javascript alias: 'SeasideWithReact') 
-			call: self installFunctionName
+			call: self reactRenderFunctionName
 			withArguments: {
 			 ((html javascript alias: 'document') call: 'getElementById' with: self id).
 			 "self reactJSComponentName."

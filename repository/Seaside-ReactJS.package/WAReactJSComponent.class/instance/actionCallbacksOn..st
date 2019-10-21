@@ -1,5 +1,5 @@
 private
 actionCallbacksOn: html
-	^ self actions
+	^ (self actions
 		collect:
-			[ :actionName | actionName -> (self callbackFor: [ :val | self perform: actionName withArguments: {val} ] on: html) ]
+			[ :actionName | actionName asString -> (self callbackFor: [ :val | self perform: actionName withArguments: { val } ] on: html) ]) asDictionary 

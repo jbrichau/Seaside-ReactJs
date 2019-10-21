@@ -1,2 +1,2 @@
 SystemOrganization addCategory: #'Seaside-ReactJS'!
-SystemOrganization addCategory: 'Seaside-ReactJS-Examples'!
+SystemOrganization addCategory: #'Seaside-ReactJS-Examples'!

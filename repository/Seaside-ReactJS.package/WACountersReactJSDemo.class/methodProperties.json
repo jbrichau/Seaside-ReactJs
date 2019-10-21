@@ -1,8 +1,0 @@
-{
-	"class" : {
-		"register" : "JohanBrichau 5/17/2017 19:28" },
-	"instance" : {
-		"children" : "JohanBrichau 5/17/2017 19:41",
-		"initialize" : "JohanBrichau 5/17/2017 19:27",
-		"renderContentOn:" : "JohanBrichau 5/18/2017 17:40",
-		"updateRoot:" : "JohanBrichau 5/18/2017 11:33" } }

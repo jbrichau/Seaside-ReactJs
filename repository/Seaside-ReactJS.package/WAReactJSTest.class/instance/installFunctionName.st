@@ -1,3 +1,0 @@
-hooks
-installFunctionName
-	^ 'installDemo'

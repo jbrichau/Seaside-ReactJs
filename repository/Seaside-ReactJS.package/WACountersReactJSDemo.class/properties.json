@@ -1,15 +1,14 @@
 {
-	"category" : "Seaside-ReactJS-Examples",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "Seaside-ReactJS-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"clientsidecomponent",
-		"serversidecomponent" ],
+		"serversidecomponent"
+	],
 	"name" : "WACountersReactJSDemo",
-	"pools" : [
-		 ],
-	"super" : "WAComponent",
-	"type" : "normal" }
+	"type" : "normal"
+}

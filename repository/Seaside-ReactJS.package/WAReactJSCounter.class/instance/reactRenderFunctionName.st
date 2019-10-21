@@ -1,0 +1,3 @@
+hooks
+reactRenderFunctionName
+	^ 'renderCounter'

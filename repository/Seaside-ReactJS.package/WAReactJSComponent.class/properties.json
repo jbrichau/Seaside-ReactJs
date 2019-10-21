@@ -1,14 +1,11 @@
 {
-	"category" : "Seaside-ReactJS",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "WAReactJSComponent",
-	"pools" : [
-		 ],
 	"super" : "WAComponent",
-	"type" : "normal" }
+	"category" : "Seaside-ReactJS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WAReactJSComponent",
+	"type" : "normal"
+}

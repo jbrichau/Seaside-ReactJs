@@ -1,3 +1,3 @@
 hooks
-installFunctionName
+actions
 	self subclassResponsibility 
