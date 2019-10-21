@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>React Seaside Counter</title>
+    <script src="https://npmcdn.com/react@15.3.0/dist/react.js"></script>
+    <script src="https://npmcdn.com/react-dom@15.3.0/dist/react-dom.js"></script>
+    <script src="https://npmcdn.com/babel-core@5.8.38/browser.min.js"></script>
+    <script src="https://npmcdn.com/jquery@3.1.0/dist/jquery.min.js"></script>
+    <script src="https://npmcdn.com/remarkable@1.6.2/dist/remarkable.min.js"></script>
+  </head>
+  <body>
+    <div id="content"></div>
+    <script type="text/babel">
+    var CounterComponent = React.createClass({
+      getInitialState: function () { return { "counter": 0 } },
+      increase: function () { this.setState({ "counter": this.state.counter + 1}); return false; },
+      decrease: function () { this.setState({ "counter": this.state.counter - 1}); return false; },
+      render: function() {
+        return (
+          <div>
+            <h1>{this.state.counter}</h1>
+            <a href="javascript:{}" onClick={ this.increase }>++</a>
+            <a href="javascript:{}" onClick={ this.decrease }>--</a>
+          </div>
+        );
+      }
+    });
+    ReactDOM.render(
+      <CounterComponent />,
+      document.getElementById('content'))
+    </script>
+  </body>
