@@ -1,3 +1,3 @@
 hooks
 actions
-	^ #(reset)
+	^ #(reset set:)

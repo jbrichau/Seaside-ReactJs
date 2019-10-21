@@ -2,7 +2,7 @@ rendering
 renderContentOn: html
 
 	| callbackId |
-	callbackId := self callbackOn: html.
+	callbackId := self stateSyncCallbackOn: html.
 	html script: 
 		((html javascript alias: 'SeasideWithReact') 
 			call: self reactRenderFunctionName

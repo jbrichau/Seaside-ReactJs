@@ -1,6 +1,4 @@
 private
-updateClientState: clientState
-	| dict |
-	dict := JSJsonParser parse: clientState.
+updateClientState: clientStateDict
 	self clientState
-		do: [ :varName | dict at: varName ifPresent: [ :val | self instVarNamed: varName put: val ] ifAbsent: [ nil ] ]
+		do: [ :varName | clientStateDict at: varName ifPresent: [ :val | self instVarNamed: varName put: val ] ifAbsent: [ nil ] ]
