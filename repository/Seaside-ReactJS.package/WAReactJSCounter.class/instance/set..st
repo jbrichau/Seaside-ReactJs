@@ -1,3 +1,3 @@
 actions
 set: aValue
-	count := 100
+	count := aValue
